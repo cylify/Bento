@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Instagram',
 			icon: 'instagram',
-			link: 'https://todoist.com',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '4',
